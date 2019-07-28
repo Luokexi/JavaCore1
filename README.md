@@ -1,2 +1,2 @@
 # JavaCore1
-Java Core One prav
+Java Core One practice
